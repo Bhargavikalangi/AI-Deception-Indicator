@@ -32,8 +32,12 @@ Along with a **deception confidence score** and explanation.
 - TextBlob (NLP)  
 - Rule-based scoring (Explainable AI)
 
----
+👉 Use:
 
-## ▶️ How to Run
-```bash
-py -3.14 .\main.py
+PrtSc or
+
+Win + Shift + S
+
+Save it as:
+
+output.png
